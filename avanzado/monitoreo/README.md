@@ -1,0 +1,6 @@
+---
+icon: monitor-waveform
+---
+
+# Monitoreo
+
