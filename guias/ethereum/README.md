@@ -1,6 +1,6 @@
 ---
 icon: ethereum
-cover: ../../.gitbook/assets/1500x500-7.jpeg
+cover: ../../.gitbook/assets/1500x500-7 (1).jpeg
 coverY: -4
 ---
 

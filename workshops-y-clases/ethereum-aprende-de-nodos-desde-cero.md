@@ -1,10 +1,10 @@
 ---
+icon: ethereum
 description: >-
   Oct '24 - Un Workshop donde junto a alumnos de la UNAM aprendimos los
   conceptos básicos de blockchain, wallets, nodos y Ethereum. Luego
   profundizamos lo aprendido corriendo un nodo en vivo.
-icon: ethereum
-cover: ../.gitbook/assets/1500x500-7.jpeg
+cover: ../.gitbook/assets/1500x500-7 (1).jpeg
 coverY: 0
 ---
 

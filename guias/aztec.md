@@ -1,10 +1,12 @@
 ---
 icon: diamond
+cover: ../.gitbook/assets/1500x500-7.jpeg
+coverY: 0
 ---
 
 # Aztec
 
-## ¿Qué es Aztec Network?
+## ¿Qué es Aztec y como interactuar con su sandbox?
 
 Aztec es un protocolo de capa 2 diseñado para Ethereum que combina privacidad y escalabilidad mediante el uso de tecnologías de conocimiento cero (Zero-Knowledge). Su arquitectura permite la ejecución de transacciones privadas y públicas en entornos completamente separados, con los siguientes componentes clave:
 
@@ -52,7 +54,7 @@ Aztec opera con tres tipos de circuitos:
 
 Para poder simular la interaccion con Aztec podemos utilizar su _<mark style="color:purple;">**sandbox**</mark>_
 
-## Aztec sandbox
+## Jugando con el Sandbox
 
 Esta guía te enseñará cómo instalar el sandbox de Aztec, ejecutarlo usando el CLI de Aztec, e interactuar con contratos usando la CLI de la wallet.
 
