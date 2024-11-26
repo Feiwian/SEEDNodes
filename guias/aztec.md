@@ -54,7 +54,7 @@ Aztec opera con tres tipos de circuitos:
 
 Para poder simular la interaccion con Aztec podemos utilizar su _<mark style="color:purple;">**sandbox**</mark>_
 
-## Jugando con el Sandbox
+## Sandbox: paso a paso
 
 Esta guía te enseñará cómo instalar el sandbox de Aztec, ejecutarlo usando el CLI de Aztec, e interactuar con contratos usando la CLI de la wallet.
 
