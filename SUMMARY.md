@@ -31,6 +31,7 @@
 * [Celestia](guias/celestia.md)
 * [EigenLayer](guias/eigenlayer.md)
 * [Starknet](guias/starknet.md)
+* [Aztec](guias/aztec.md)
 * [Optimism](guias/optimism.md)
 * [Otros Nodos](guias/otros-nodos.md)
 

@@ -97,7 +97,7 @@ sudo apt-get install -y pkg-config
 
 **Instalamos Rust**
 
-Necesitamos instalar el lenguaje de programación Rust y sus herramientas, ya que el nodo[@equilibrium\_co](https://x.com/equilibrium\_co) está integrado en Rust:
+Necesitamos instalar el lenguaje de programación Rust y sus herramientas, ya que el nodo[@equilibrium\_co](https://x.com/equilibrium_co) está integrado en Rust:
 
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -200,7 +200,7 @@ cargo build --release --bin pathfinder
 ## Paso 9 - Crear una cuenta de Infura
 
 * Entras a [https://infura.io](https://t.co/jw1oVxRWlp) y te registrás.
-* En tu tablero, haces clic en "Conectarse a la red [#Ethereum](https://x.com/hashtag/Ethereum?src=hashtag\_click) en segundos"
+* En tu tablero, haces clic en "Conectarse a la red [#Ethereum](https://x.com/hashtag/Ethereum?src=hashtag_click) en segundos"
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -211,14 +211,14 @@ cargo build --release --bin pathfinder
 
 * En el panel de configuración podrá ver los puntos finales.
 * Copias el https
-* En esta etapa, tenés que decidir en qué red [#Ethereum](https://x.com/hashtag/Ethereum?src=hashtag\_click) ejecutas su nodo. Aquí nosotros elegimos Mainnet.
-* Si el punto final elegido está en la red principal, se ejecutará en [#StarkNetMainnet](https://x.com/hashtag/StarkNetMainnet?src=hashtag\_click) .
+* En esta etapa, tenés que decidir en qué red [#Ethereum](https://x.com/hashtag/Ethereum?src=hashtag_click) ejecutas su nodo. Aquí nosotros elegimos Mainnet.
+* Si el punto final elegido está en la red principal, se ejecutará en [#StarkNetMainnet](https://x.com/hashtag/StarkNetMainnet?src=hashtag_click) .
 
 ## Paso 10 - Ejecutar el Nodo
 
 Como paso final queda → ejecutar el nodo en la Capa 2
 
-Podes probar la ejecución de tu nodo escribiendo (R_eemplazar xxxxx con su número de End Point de Infura_):
+Podes probar la ejecución de tu nodo escribiendo (&#x52;_&#x65;emplazar xxxxx con su número de End Point de Infura_):
 
 ```
 cargo run --release --bin pathfinder -- --ethereum.url https://mainnet.infura.io/v3/xxxxx
@@ -229,4 +229,4 @@ cargo run --release --bin pathfinder -- --ethereum.url https://mainnet.infura.io
 No todo es color de rosas y pueden aparecer problemas en el camino. Cualquier consulta siempre va a haber alguien con ganas de ayudar en el Club de Nodos!
 
 \
-**Haz tus preguntas aquí ->** [**Club de Nodos**](https://t.me/SEED\_Nodes)
+**Haz tus preguntas aquí ->** [**Club de Nodos**](https://t.me/SEED_Nodes)

@@ -262,8 +262,8 @@ _Desglose del comando:_
 *   **-xzf**: _Son opciones de tar que indican las acciones a realizar durante la extracción:_
 
     _-x: Extraer (desempaquetar)._\
-    _-z: Utilizar gzip para descomprimir._\
-    _-f: Especifica el nombre del archivo a descomprimir._
+    &#xNAN;_-z: Utilizar gzip para descomprimir._\
+    &#xNAN;_-f: Especifica el nombre del archivo a descomprimir._
 
 ```typescript
 export PATH=$PATH:/usr/local/go/bin 

@@ -11,7 +11,7 @@ En este artículo, exploraremos exhaustivamente los diversos clientes de Ethereu
 Un cliente es una implementación de Ethereum que verifica los datos con las reglas del protocolo y mantiene la red segura. Un nodo tiene que ejecutar dos clientes: un cliente de consenso y un cliente de ejecución.
 
 > _Recordemos qué es un nodo:_ \
-> _Un "nodo" es cualquier instancia del software cliente de Ethereum que está conectada a otras computadoras que también ejecutan el software Ethereum, formando una red._
+> &#xNAN;_&#x55;n "nodo" es cualquier instancia del software cliente de Ethereum que está conectada a otras computadoras que también ejecutan el software Ethereum, formando una red._
 
 Los clientes facilitan la validación de transacciones, la ejecución de contratos inteligentes y la comunicación con otros nodos en la red, lo que es fundamental para mantener la integridad y la seguridad de la red Ethereum en su conjunto.
 

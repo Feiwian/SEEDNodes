@@ -50,7 +50,7 @@ La guía esta compuesta por pasos simples y sin dejar huecos de implementación 
 
 #### 2. Configuración del Vault <a href="#heading-2-configuracion-del-vault" id="heading-2-configuracion-del-vault"></a>
 
-_**Step 1 -**_** Configurar los parámetros del Vault**
+_**Step 1 -**_**&#x20;Configurar los parámetros del Vault**
 
 <figure><img src="https://images.mirror-media.xyz/publication-images/SX_hrRdm7gBA91M3f4W3j.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,7 +76,7 @@ _**Step 1 -**_** Configurar los parámetros del Vault**
 
 <figure><img src="https://images.mirror-media.xyz/publication-images/GxOuygIIRApv-G56_0LMq.png" alt=""><figcaption></figcaption></figure>
 
-**3. Step 3: **_**Add Branding**_** -** vas a agregar un nombre, descripción y un logo a tu Vault para distinguirlo.
+**3. Step 3:&#x20;**_**Add Branding**_**&#x20;-** vas a agregar un nombre, descripción y un logo a tu Vault para distinguirlo.
 
 <figure><img src="https://images.mirror-media.xyz/publication-images/56mGlO8mF26as_lOmJZsf.png" alt=""><figcaption></figcaption></figure>
 
@@ -175,7 +175,7 @@ Y a medida que nos vayan stakeando, los Actions y Validators se van a empezar a 
 
 ### SeedNode Vault <a href="#heading-seednode-vault" id="heading-seednode-vault"></a>
 
-Invitamos a todos los miembros de la comunidad que quiera participar en nuestro _**Vault**_a visitar el siguiente Link:
+Invitamos a todos los miembros de la comunidad que quiera participar en nuestro _**Vault**_&#x61; visitar el siguiente Link:
 
 [SEEDNode | StakeWiseGnosis v3 Vault 🦉 At SEEDNode, we promote and strengthen decentralization globally by providing best-in-class node infrastruct…app.stakewise.io](https://app.stakewise.io/vault/gnosis/0x9eeb6be79899cfe45018866a2113c6b77fa96f35)
 

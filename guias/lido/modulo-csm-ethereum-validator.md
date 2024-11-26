@@ -28,7 +28,7 @@ Además vamos a necesitar tener una wallet fondeada con más 2 ETH en Holesky qu
 
 ### **Parte 1: Interacción con Ethereum Staking Deposit CLI** <a href="#heading-parte-1-interaccion-con-ethereum-staking-deposit-cli" id="heading-parte-1-interaccion-con-ethereum-staking-deposit-cli"></a>
 
-Como se ha visto en [tutoriales anteriores](https://mirror.xyz/seedlatam.eth/NE-iXSkA4\_PCZpBWW\_r4EhmTxXjilCytX3IxQEKi4KQ), se debe utilizar el **Ethereum Staking Deposit CLI**. Esta herramienta de línea de comandos que proporciona la **Ethereum Foundation** nos ayuda a generar las claves y los datos de depósito necesarios para convertirnos en validadores.
+Como se ha visto en [tutoriales anteriores](https://mirror.xyz/seedlatam.eth/NE-iXSkA4_PCZpBWW_r4EhmTxXjilCytX3IxQEKi4KQ), se debe utilizar el **Ethereum Staking Deposit CLI**. Esta herramienta de línea de comandos que proporciona la **Ethereum Foundation** nos ayuda a generar las claves y los datos de depósito necesarios para convertirnos en validadores.
 
 #### **Principales Características del Ethereum Staking Deposit CLI:** <a href="#heading-principales-caracteristicas-del-ethereum-staking-deposit-cli" id="heading-principales-caracteristicas-del-ethereum-staking-deposit-cli"></a>
 
@@ -38,7 +38,7 @@ Como se ha visto en [tutoriales anteriores](https://mirror.xyz/seedlatam.eth/NE-
 
 _**\***_ Es importante tener en cuenta que, en este tutorial, el procedimiento se realiza _ONLINE_ para la generación de claves. Aunque es posible realizarlo _OFFLINE_, como se menciona, ese no es el enfoque de esta guía.
 
-Si te interesa la creación de claves OFFLINE te recomendamos ver [este video](https://youtu.be/ou\_42QD\_F4E?si=qsHOH-VigkkiTEZ0)
+Si te interesa la creación de claves OFFLINE te recomendamos ver [este video](https://youtu.be/ou_42QD_F4E?si=qsHOH-VigkkiTEZ0)
 
 Para poder encontrar esta herramienta primero debemos dirigirnos hacia el _**GitHub**_ oficial de Ethereum: [https://github.com/ethereum](https://github.com/ethereum) luego, ir a _**repositories**_ ([https://github.com/orgs/ethereum/repositories](https://github.com/orgs/ethereum/repositories)) y buscar “_**staking-deposit-cli**_”, esta es una forma segura de poder acceder al repositorio de la herramienta.
 
@@ -90,7 +90,7 @@ Seleccionamos cuantos validadores vamos a querer correr. En nuestro caso, _1_ :
 
 Se selecciona la red que se va a utilizar: _mainnet_ o _testnet_.
 
-En este caso, testnet —> H_olesky_:
+En este caso, testnet —> &#x48;_&#x6F;lesky_:
 
 <figure><img src="https://images.mirror-media.xyz/publication-images/0ucGJ4HtZVAXRzvolP9_k.png" alt=""><figcaption></figcaption></figure>
 
@@ -238,7 +238,7 @@ Este proceso no solo fortalece la red de Ethereum y mejora la descentralización
 
 Si deseas seguir aprendiendo más o profundizar en aspectos como la creación de claves offline o la optimización de validadores, asegúrate de consultar los recursos adicionales que hemos mencionado y seguir experimentando con nuevas configuraciones.
 
-Cualquier duda que tengas y quieras consultar o conversar con alguien, estas invitado a unirte a nuestro [Club de Nodos en telegram](https://t.me/SEED\_Nodes) o escaneá el QR:
+Cualquier duda que tengas y quieras consultar o conversar con alguien, estas invitado a unirte a nuestro [Club de Nodos en telegram](https://t.me/SEED_Nodes) o escaneá el QR:
 
 <figure><img src="https://images.mirror-media.xyz/publication-images/dGovLJGXxRxutrxkVAB1a.png" alt=""><figcaption></figcaption></figure>
 
