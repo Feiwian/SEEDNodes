@@ -57,4 +57,5 @@
   * [Monitoreo y mantenimiento de un Validador](avanzado/monitoreo/monitoreo-y-mantenimiento-de-un-validador.md)
 * [DVT](avanzado/dvt/README.md)
   * [Intro - Comprendiendo DVT](avanzado/dvt/intro-comprendiendo-dvt.md)
+* [MEV](avanzado/mev.md)
 * [BitVM](avanzado/bitvm.md)
