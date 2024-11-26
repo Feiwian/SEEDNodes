@@ -1,3 +1,7 @@
+---
+icon: robot
+---
+
 # MEV
 
 ## Artículos previos:
@@ -171,6 +175,6 @@ Flashbots no tiene como objetivo eliminar el _MEV_ por completo. En cambio, busc
 
 Este enfoque representa un avance significativo hacia un sistema más justo y transparente dentro de Ethereum, mitigando los efectos más nocivos del _MEV_ y promoviendo la descentralización.
 
-MEV-Boost es una **herramienta específica** creada por Flashbots como parte de su solución al problema del _ME&#x56;_&#x70;reviamente descrito.
+MEV-Boost es una **herramienta específica** creada por Flashbots como parte de su solución al problema del _MEV_ previamente descrito.
 
 A continuación, explicaremos cómo funciona.
