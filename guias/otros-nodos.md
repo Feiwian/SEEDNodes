@@ -7,10 +7,6 @@ icon: share-nodes
 
 
 {% tabs %}
-{% tab title="Uniswap" %}
-{% embed url="https://x.com/SeedsPuntoEth/status/1849147820701282583" %}
-{% endtab %}
-
 {% tab title="Farcaster" %}
 ### Introduccion: <a href="#block-dab9686f21c147978ecf397e4ee55361" id="block-dab9686f21c147978ecf397e4ee55361"></a>
 
@@ -49,15 +45,15 @@ En esta guía utilizaremos [Contabo](https://contabo.com/en/), un proveedor de s
 
 https://contabo.com/en/
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FxuEK8O4tKzCxUTKod76O4.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FxuEK8O4tKzCxUTKod76O4.png\&w=3840\&q=75)
 
 Una vez seleccionado el tipo de plan (Cloud VPS 1), región (Alemania) y almacenamiento (400 GB); vamos a ‘_Aplicaciones y paneles_’ > _Docker_
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Ff7gsM7B4C1SZ\_xeQoc\_yA.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Ff7gsM7B4C1SZ_xeQoc_yA.png\&w=3840\&q=75)
 
 Iniciamos sesión con usuario y contraseña:
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fb\_84JVBEUhFRtSa0xI8qG.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2Fb_84JVBEUhFRtSa0xI8qG.png\&w=3840\&q=75)
 
 Y por último, antes de pagar, configuramos el almacenamiento (predeterminado), redes (predeterminada) y complementos (predeterminado).
 
@@ -69,7 +65,7 @@ sudo add-apt-repository universe
 
 Agregas los repositorios con el siguiente comando.
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FsfhxskY4\_sU-RcFmFzxdp.png\&w=3840\&q=75)Copy
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FsfhxskY4_sU-RcFmFzxdp.png\&w=3840\&q=75)Copy
 
 ```
 sudo apt update
@@ -77,7 +73,7 @@ sudo apt update
 
 Actualizas con el siguiente comando.
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FS7jJ17U\_VgMFNnHuvQWOi.png\&w=3840\&q=75)Copy
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FS7jJ17U_VgMFNnHuvQWOi.png\&w=3840\&q=75)Copy
 
 ```
 sudo apt install putty
@@ -85,18 +81,18 @@ sudo apt install putty
 
 Instalas putty con el siguiente comando.
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2F9xEzAJMmZWy6Vepq-Jf7L.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2F9xEzAJMmZWy6Vepq-Jf7L.png\&w=3840\&q=75)
 
 Vamos a actividad y buscamos ‘SSH’, abrimos:
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FZQVRZzi8bXEFlkDi01vF1.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FZQVRZzi8bXEFlkDi01vF1.png\&w=3840\&q=75)
 
 Ingresas la dirección IP del VPS y luego haga clic en _OPEN_
 
 * Login : root
 * Password: (es la que configuraste anteriormente en Contabo VPS)
 
-![image](https://mirror.xyz/\_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FmljRazfdEN-T9\_dEqOZ8f.png\&w=3840\&q=75)
+![image](https://mirror.xyz/_next/image?url=https%3A%2F%2Fimages.mirror-media.xyz%2Fpublication-images%2FmljRazfdEN-T9_dEqOZ8f.png\&w=3840\&q=75)
 
 ### **Iniciar el nodo Farcaster en VPS** <a href="#block-916e745662314a9eb7ff54efb30e06c9" id="block-916e745662314a9eb7ff54efb30e06c9"></a>
 
