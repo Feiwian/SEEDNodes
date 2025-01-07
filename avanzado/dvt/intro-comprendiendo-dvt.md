@@ -6,6 +6,8 @@ description: >-
 
 # Intro - Comprendiendo DVT
 
+La Tecnología de Validación Distribuida (DVT, Distributed Validator Technology) tiene el potencial de revolucionar el modelo de Proof of Stake en Ethereum. A lo largo del artículo, exploraremos las razones detrás de esta afirmación y el impacto que DVT podría tener en la seguridad y descentralización de esta red.
+
 {% stepper %}
 {% step %}
 **Introducción**
@@ -26,7 +28,7 @@ Explicaremos un poco más en detalle los protocolos necesarios para aplicar DVT 
 {% endstep %}
 
 {% step %}
-**Diferencias entre implementaciones**
+**Comparaciones entre implementaciones DVT**
 
 Abordaremos las principales diferencias entre OBOL y SSV. También mencionaremos otras implementaciones que actualmente están en la industria.
 {% endstep %}
@@ -44,11 +46,11 @@ Abordaremos las principales diferencias entre OBOL y SSV. También mencionaremos
 
 #### _Staking en Ethereum_ <a href="#block-89a6eed49f024c8a86d524eb272d1e09" id="block-89a6eed49f024c8a86d524eb272d1e09"></a>
 
-Básicamente, implica que los validadores bloqueen 32 ETH dentro del protocolo y realicen ciertas tareas. Estas tareas consisten principalmente en producir bloques y atestaciones en momentos específicos. La razón para bloquear el ETH es brindarle al protocolo la herramienta para poder penalizar a los validadores si hacen algo incorrecto.
+Desde el punto de vista del validador en el contexto de staking, este necesita bloquear 32 ETH dentro del protocolo para poder participar. A su vez, debe realizar tareas que consisten principalmente en producir bloques y atestaciones en momentos específicos. La razón para bloquear el ETH es brindarle al protocolo la herramienta para poder penalizar a los validadores si hacen algo incorrecto.
 
-#### _Riesgos_ <a href="#block-9c3dc0959d6248e6a4dec4ae71560d87" id="block-9c3dc0959d6248e6a4dec4ae71560d87"></a>
+#### _Riesgos del modelo_ <a href="#block-9c3dc0959d6248e6a4dec4ae71560d87" id="block-9c3dc0959d6248e6a4dec4ae71560d87"></a>
 
-Existen diferentes tipos de penalizaciones. Si un nodo está inactivo, solo sufre una pequeña penalización. Si se comporta de manera maliciosa, como firmar en dos cadenas diferentes a la vez, se le da una penalización mayor llamada "slashing".
+Existen diferentes tipos de escenarios posibles que conllevan cierto riesgo. Si un nodo está inactivo, solo sufre una pequeña penalización. Si se comporta de manera maliciosa, como firmar en dos cadenas diferentes a la vez, se le da una penalización mayor llamada "slashing".
 
 Sumado a esto, existe el riesgo debido a la gestión de las claves. Este riesgo abarca tanto el robo de la clave como el riesgo que se corre al ceder la clave a un tercero. Al confiar en una sola persona o entidad las claves del validador, se corre el riesgo de una mala configuración o prácticas de seguridad deficientes.
 
