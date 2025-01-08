@@ -142,7 +142,7 @@ Al tener tokens eETH/weETH, los usuarios obtienen dos tipos de recompensas:
    * Puedes redimir tu ETH directamente desde eETH/weETH sin esperar el período estándar de 7 días.
    * Esto es posible siempre que Ether.fi tenga suficiente ETH líquido disponible en el contrato.
 
-### **2.3. Documentación Adicional**
+### **Documentación Adicional**
 
 Para una comprensión más técnica del proceso de **Re-Staking en EigenLayer**, se recomienda consultar la **documentación oficial de EigenLayer**.
 
@@ -164,13 +164,13 @@ El modelo de ingresos de [Ether.fi](http://ether.fi/) está diseñado para ser c
 
 Este modelo no solo asegura un flujo de ingresos estable, sino que establece incentivos claros y alineados para cada grupo de participantes.
 
-## **4. Operación Solo Staker: Descentralización Real para Ethereum**
+## **Operación Solo Staker: Descentralización Real para Ethereum**
 
 [Ether.fi](http://ether.fi/) lo explica de la siguiente forma:&#x20;
 
 > _”Es una iniciativa que apunta directamente a descentralizar Ethereum nodo por nodo, empoderando a operadores individuales para que participen activamente en la validación de la red desde sus propios hogares. Lo innovador de esta propuesta es que elimina barreras técnicas y financieras, ofreciendo un modelo accesible incluso para quienes no cuentan con los recursos o conocimientos avanzados que tradicionalmente se requerían.”_
 
-### **4.1. Un modelo descentralizado con tecnología DVT**
+### **Un modelo descentralizado con tecnología DVT**
 
 El funcionamiento de la Operación Solo Staker se basa en la tecnología **DVT (Distributed Validator Technology)**, que permite dividir una clave de validador en fragmentos seguros que son distribuidos entre múltiples operadores individuales. Esto significa que ninguna persona tiene control total sobre la clave, reduciendo así los riesgos operativos.
 
@@ -178,7 +178,7 @@ El funcionamiento de la Operación Solo Staker se basa en la tecnología **DVT (
 
 El proceso es claro: [**Ether.fi**](http://ether.fi/) **deposita los 32 ETH necesarios para activar un validador** y genera una clave que, gracias a DVT, se distribuye entre varios nodos individuales. Una vez que los nodos están en línea, comienzan a proponer bloques y atestar transacciones, contribuyendo así directamente a la seguridad y estabilidad de la red Ethereum.
 
-### **4.2. Descentralización práctica y recompensas sostenibles**
+### **Descentralización práctica y recompensas sostenibles**
 
 La Operación Solo Staker no es solo una solución técnica; es también una declaración sobre cómo debe evolucionar Ethereum para mantenerse fiel a sus principios fundacionales. Al permitir que cualquier usuario con el hardware adecuado pueda participar, [Ether.fi](http://ether.fi/) está creando una red más robusta, menos vulnerable a fallas concentradas y con una distribución geográfica mucho más amplia.
 
@@ -192,11 +192,11 @@ Esta operación representa un paso concreto hacia un Ethereum verdaderamente des
 Lido esta ejecutando una solución propia del mismo tipo llamada SIMPLE-DVT
 {% endhint %}
 
-## **5. Otras Características de** [**Ether.fi**](http://ether.fi/)
+## **Otras Características de** [**Ether.fi**](http://ether.fi/)
 
 [**Ether.fi**](http://ether.fi/) ha expandido su ecosistema más allá del _staking_ y el _re-staking_, integrando herramientas y productos que buscan maximizar la utilidad y accesibilidad para sus usuarios. Estas características adicionales refuerzan su propuesta de valor y diversifican las oportunidades dentro del protocolo:
 
-### **5.1 Liquid Vaults: Estrategias Automatizadas de DeFi**
+### **Liquid Vaults: Estrategias Automatizadas de DeFi**
 
 [Ether.fi](http://ether.fi/) ha lanzado **estrategias automatizadas de DeFi**, conocidas como **Liquid Vaults**, que permiten a los usuarios maximizar el rendimiento de sus tokens de forma eficiente y sin necesidad de conocimientos técnicos avanzados.
 
