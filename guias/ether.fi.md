@@ -196,17 +196,15 @@ Lido esta ejecutando una solución propia del mismo tipo llamada SIMPLE-DVT
 
 [**Ether.fi**](http://ether.fi/) ha expandido su ecosistema más allá del _staking_ y el _re-staking_, integrando herramientas y productos que buscan maximizar la utilidad y accesibilidad para sus usuarios. Estas características adicionales refuerzan su propuesta de valor y diversifican las oportunidades dentro del protocolo:
 
-### **Liquid Vaults: Estrategias Automatizadas de DeFi**
+### [**Liquid Vaults: Estrategias Automatizadas de DeFi**](https://app.ether.fi/liquid)
 
 [Ether.fi](http://ether.fi/) ha lanzado **estrategias automatizadas de DeFi**, conocidas como **Liquid Vaults**, que permiten a los usuarios maximizar el rendimiento de sus tokens de forma eficiente y sin necesidad de conocimientos técnicos avanzados.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
-
-### **Cash: Otra tarjeta de Crédito Cripto**
+### [**Cash: Otra tarjeta de Crédito Cripto**](https://app.ether.fi/cash)
 
 **Cash** representa una innovación en la experiencia del usuario, al permitir el uso directo de los activos depositados en [Ether.fi](http://ether.fi/) en el mundo real. A través de una **aplicación móvil dedicada** y una tarjeta de crédito física Visa, los usuarios podrán **pedir préstamos respaldados por sus activos cripto** para cubrir gastos cotidianos. Además, el sistema ofrecerá recompensas y devoluciones por cada compra realizada, consolidando la experiencia entre las finanzas tradicionales y las descentralizadas.
 
-### **Diversificación con Nuevos LRTs**
+### [**Diversificación con Nuevos LRTs**](https://app.ether.fi/ebtc)
 
 [Ether.fi](http://ether.fi/) ha ampliado su gama de tokens con opciones como eUSD LRT, eBTC, weETHs (_Super Symbiotic LRT_) y weETHk (_King Karak LRT_). Cada uno de estos tokens está diseñado para abordar necesidades específicas dentro del ecosistema, ofreciendo flexibilidad y opciones adicionales a los participantes.
 
