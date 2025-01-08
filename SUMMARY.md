@@ -32,8 +32,10 @@
 * [EigenLayer](guias/eigenlayer.md)
 * [Starknet](guias/starknet.md)
 * [Unichain](guias/unichain.md)
-* [Aztec](guias/aztec.md)
+* [Aztec](guias/aztec/README.md)
+  * [¿Qué es Aztec y como interactuar con su sandbox?](guias/aztec/que-es-aztec-y-como-interactuar-con-su-sandbox.md)
 * [Optimism](guias/optimism.md)
+* [Ether.fi](guias/ether.fi.md)
 * [Otros Nodos](guias/otros-nodos.md)
 
 ## Workshops y Clases

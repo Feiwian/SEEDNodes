@@ -1,16 +1,16 @@
 ---
 icon: diamond
-cover: ../.gitbook/assets/1500x500-7.jpeg
+cover: ../../.gitbook/assets/1500x500-7.jpeg
 coverY: 0
 ---
 
-# Aztec
+# ¿Qué es Aztec y como interactuar con su sandbox?
 
 ## ¿Qué es Aztec y como interactuar con su sandbox?
 
 Aztec es un protocolo de capa 2 diseñado para Ethereum que combina privacidad y escalabilidad mediante el uso de tecnologías de conocimiento cero (Zero-Knowledge). Su arquitectura permite la ejecución de transacciones privadas y públicas en entornos completamente separados, con los siguientes componentes clave:
 
-<figure><img src="../.gitbook/assets/imagem.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem.png" alt=""><figcaption></figcaption></figure>
 
 #### **Aztec.js**
 
@@ -44,7 +44,7 @@ Es la herramienta que permite a los usuarios interactuar con Aztec, similar a bi
 
 #### **Circuitos**
 
-<figure><img src="../.gitbook/assets/imagem1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem1.png" alt=""><figcaption></figcaption></figure>
 
 Aztec opera con tres tipos de circuitos:
 
@@ -89,15 +89,15 @@ export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || pr
 
 Ejecutamos `command -v nvm` para verificar que hayamos instalado nvm correctamente:
 
-<figure><img src="../.gitbook/assets/imagem3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem3.png" alt=""><figcaption></figcaption></figure>
 
 Podemos ver que version tenemos instalada con `nvm --version` , ahora que ya tenemos instalado nvm, corremos `nvm ls-remote` para ver las versiones de node disponibles:
 
-<figure><img src="../.gitbook/assets/imagem4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem4.png" alt=""><figcaption></figcaption></figure>
 
 Instalamos la version 20.17.0 :
 
-<figure><img src="../.gitbook/assets/m5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/m5.png" alt=""><figcaption></figcaption></figure>
 
 Listo! Ya tenemos node instalado
 
@@ -137,7 +137,7 @@ sudo docker run hello-world
 
 Debemos tener el siguiente output:
 
-<figure><img src="../.gitbook/assets/imagem6.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem6.png" alt=""><figcaption></figcaption></figure>
 
 ### Arrancar Docker
 
@@ -151,7 +151,7 @@ docker info
 
 Output esperado:
 
-<figure><img src="../.gitbook/assets/imagem7.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem7.png" alt=""><figcaption></figcaption></figure>
 
 ### Instalamos el sandbox
 
@@ -170,15 +170,15 @@ Esto va a instalar las siguientes herramientas:
 
 Le damos a Yes y va a empezar a descargar el sandbox:
 
-<figure><img src="../.gitbook/assets/imagem8.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/imagem9.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem9.png" alt=""><figcaption></figcaption></figure>
 
 #### Nota:
 
 Si no tenemos corriendo docker, vamos a obtener un error como el siguiente:
 
-<figure><img src="../.gitbook/assets/imagem10.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem10.png" alt=""><figcaption></figcaption></figure>
 
 ### Arrancamos el sandbox
 
@@ -188,7 +188,7 @@ Una vez que lo tengamos instalado, para correr el sandbox ejecutamos:
 aztec start --sandbox
 ```
 
-<figure><img src="../.gitbook/assets/imagem11.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem11.png" alt=""><figcaption></figcaption></figure>
 
 El sandbox va a estar listo cuando veamos el siguiente mensaje:
 
@@ -200,7 +200,7 @@ Abrimos otra terminal y ya vamos a poder empezar a interactuar con el cliente de
 
 Ejecutamos `aztec -h` para ver la lista de comandos:
 
-<figure><img src="../.gitbook/assets/imagem12.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem12.png" alt=""><figcaption></figcaption></figure>
 
 ### Interactuando con el sandbox
 
@@ -218,11 +218,11 @@ Esto va a crear una nueva wallet con una cuenta y darle el alias “my-wallet”
 
 Nos va permitirá referenciarla con `accounts:my-wallet`. Verás registros que te mostrarán la dirección, la clave pública, la clave secreta y más.
 
-<figure><img src="../.gitbook/assets/imagem13.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem13.png" alt=""><figcaption></figcaption></figure>
 
 Podemos checkear que se ejecuto bien el comando corriendo: `aztec-wallet get-alias accounts:my-wallet`deberiamos tener un output como el siguiente:
 
-<figure><img src="../.gitbook/assets/imagem14.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem14.png" alt=""><figcaption></figcaption></figure>
 
 Ahora que ya tenemos nuestra cuenta nueva, vamos a obtener un poco de tokens (localmente :) )
 
@@ -243,7 +243,7 @@ En el comando podemos observar:
 
 Al completarse el despliegue exitosamente, deberías ver algo como esto:
 
-<figure><img src="../.gitbook/assets/imagem15.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem15.png" alt=""><figcaption></figcaption></figure>
 
 En el siguiente paso vamos a mintear unos tokens!
 
@@ -266,7 +266,7 @@ Esto solo funciona porque estamos usando la clave secreta del administrador que 
 
 Una llamada exitosa debería mostrar algo como esto:
 
-<figure><img src="../.gitbook/assets/imagem16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem16.png" alt=""><figcaption></figcaption></figure>
 
 Podes verificar que se ejecuto correctamente llamando a la función que comprueba el saldo de tu cuenta pública:
 
@@ -276,7 +276,7 @@ aztec-wallet simulate balance_of_public --from my-wallet --contract-address test
 
 Esto deberia mostrar:
 
-<figure><img src="../.gitbook/assets/imagem17.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem17.png" alt=""><figcaption></figcaption></figure>
 
 #### **Jugando con hybrid state y funciones privadas**
 
@@ -286,7 +286,7 @@ En los siguientes pasos, moveremos algunos tokens del estado público al privado
 aztec-wallet send transfer_to_private --from accounts:my-wallet --contract-address testtoken --args accounts:my-wallet 25
 ```
 
-<figure><img src="../.gitbook/assets/imagem18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem18.png" alt=""><figcaption></figcaption></figure>
 
 Los argumentos para la función `transfer_to_private` son:
 
@@ -303,7 +303,7 @@ aztec-wallet simulate balance_of_public --from my-wallet --contract-address test
 
 Esto deberia mostrar:
 
-<figure><img src="../.gitbook/assets/imagem19.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem19.png" alt=""><figcaption></figcaption></figure>
 
 ¡Y luego llama a `balance_of_private` para verificar que tienes tus tokens!
 
@@ -313,7 +313,7 @@ aztec-wallet simulate balance_of_private --from my-wallet --contract-address tes
 
 Esto deberia mostrar::
 
-<figure><img src="../.gitbook/assets/imagem20.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/imagem20.png" alt=""><figcaption></figcaption></figure>
 
 **¡Felicitaciones, ahora conoces los fundamentos para trabajar con el sandbox de Aztec!** Ya estás listo para pasar a cosas más divertidas.
 
