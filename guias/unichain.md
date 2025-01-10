@@ -1,5 +1,7 @@
 ---
 icon: narwhal
+cover: ../.gitbook/assets/1500x500-9.jpeg
+coverY: 0
 ---
 
 # Unichain
