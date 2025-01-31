@@ -1,4 +1,6 @@
-### **Disclaimer**
+# **Fuel: Funcionamiento y Perspectivas a Futuro**
+
+## **Disclaimer**
 
 Este artículo tiene un propósito puramente académico y educativo. Si bien se menciona el token de la red $FUEL, en ningún momento se realiza una recomendación de compra, venta o inversión.
 
