@@ -1,7 +1,7 @@
 ---
 icon: square-up-left
-cover: ../../.gitbook/assets/1500x500-11.jpeg
-coverY: -205.74100719424462
+cover: ../../.gitbook/assets/1500x500-11 (3).jpeg
+coverY: -135.87769784172664
 ---
 
 # Fuel
