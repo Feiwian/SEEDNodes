@@ -35,6 +35,9 @@
 * [Aztec](guias/aztec/README.md)
   * [¿Qué es Aztec y como interactuar con su sandbox?](guias/aztec/que-es-aztec-y-como-interactuar-con-su-sandbox.md)
 * [Optimism](guias/optimism.md)
+* [Fuel](guias/fuel/README.md)
+  * [Funcionamiento y Perspectivas a Futuro](guias/fuel/funcionamiento-y-perspectivas-a-futuro.md)
+  * [Mainnet Node](guias/fuel/mainnet-node.md)
 * [Ether.fi](guias/ether.fi.md)
 * [Otros Nodos](guias/otros-nodos.md)
 
