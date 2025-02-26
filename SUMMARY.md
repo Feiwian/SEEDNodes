@@ -17,7 +17,7 @@
   - [Clientes: Opciones y Funcionalidades](guias/ethereum/clientes-opciones-y-funcionalidades.md)
   - [De Full Node a Validator Node](guias/ethereum/de-full-node-a-validator-node.md)
   - [Atestaciones y consenso](guias/ethereum/atestaciones-y-consenso.md)
-  - [Gas en Ethereum](guias/ethereum//gas-en-ethereum.md)
+  - [Gas en Ethereum](guias/ethereum/gas-en-ethereum.md)
 - [Gnosis](guias/gnosis/README.md)
   - [Paso a Paso - Nodo Validador](guias/gnosis/paso-a-paso-nodo-validador.md)
   - [StakeWise Vault](guias/gnosis/stakewise-vault.md)
