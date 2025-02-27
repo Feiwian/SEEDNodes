@@ -72,7 +72,7 @@ Por ejemplo, investigaciones como “Empirical Analysis of EIP‑1559: Transacti
 
 Mientras algunos clientes (como Geth y MetaMask) ya implementan estimaciones internas, construir un estimador propio utilizando datos en tiempo real puede ofrecer flexibilidad. Se pueden comparar las estimaciones manuales obtenidas a partir de percentiles históricos con las sugeridas por el cliente para validar y ajustar el modelo predictivo. Tambien si estamos desarrollando nuestro propio smart contract, la herramienta [Remix](http://remix.ethereum.org/) nos da un estimado de cuanto gas cuesta interactuar con una función en particular de nuestro contrato. (podemos verlo al lado del nombre de la función)
 
-<figure><img src="../.gitbook/assets/gas-en-ethereum-1.png" alt="Funciones para interactuar con un Array en Solidity"><figcaption><p>Funciones para interactuar con un Array en Solidity</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-en-ethereum-1.png" alt="Funciones para interactuar con un Array en Solidity"><figcaption><p>Funciones para interactuar con un Array en Solidity</p></figcaption></figure>
 
 Esto nos es de utilidad, ya que en el simulador que desarrollamos, podemos ingresar valores custom de gas para estimar cuanto nos puede costar en tiempo real interactuar con la misma.
 
@@ -93,11 +93,11 @@ El proceso del simulador se resume en los siguientes pasos:
 
 Un ejemplo de implementación se encuentra en el proyecto [Etherscaneitor](https://frontend-etherscaneitor-production.up.railway.app/) donde todo el codigo es open source, asi que si tienes alguna mejora o recomendación, no dudes en abrir una Pull request!
 
-<figure><img src="../.gitbook/assets/gas-en-ethereum-2.png" alt="Pagina principal etherscaneitor"><figcaption><p>Pagina principal etherscaneitor</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-en-ethereum-2.png" alt="Pagina principal etherscaneitor"><figcaption><p>Pagina principal etherscaneitor</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gas-en-ethereum-3.png" alt="Simulador de Gas"><figcaption><p>Simulador de Gas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-en-ethereum-3.png" alt="Simulador de Gas"><figcaption><p>Simulador de Gas</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/gas-en-ethereum-4.png" alt="Simulador de Gas ingresando gas units personalizadas"><figcaption><p>Simulador de Gas ingresando gas units personalizadas</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gas-en-ethereum-4.png" alt="Simulador de Gas ingresando gas units personalizadas"><figcaption><p>Simulador de Gas ingresando gas units personalizadas</p></figcaption></figure>
 
 ### 5.3. Casos de uso y ejemplos prácticos
 
