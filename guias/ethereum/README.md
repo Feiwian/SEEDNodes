@@ -12,4 +12,57 @@ Un nodo de Ethereum es una computadora que descarga, mantiene y actualiza una co
 
 Estos recursos te guiarán a través del proceso de configuración de tu propio nodo de Ethereum.
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><h3>Instalación y Sincronización</h3></td><td></td><td></td><td><a href="instalacion-y-sincronizacion.md">instalacion-y-sincronizacion.md</a></td></tr><tr><td><h3>Componentes de Hardware</h3></td><td></td><td></td><td><a href="componentes-de-hardware.md">componentes-de-hardware.md</a></td></tr><tr><td><h3>Nodos: Archivo, Full y Light</h3></td><td></td><td></td><td><a href="nodos-archivo-full-y-light.md">nodos-archivo-full-y-light.md</a></td></tr><tr><td><h3>Clientes: Opciones y Funcionalidades</h3></td><td></td><td></td><td><a href="clientes-opciones-y-funcionalidades.md">clientes-opciones-y-funcionalidades.md</a></td></tr><tr><td><h3>De Full Node a Validator Node</h3></td><td></td><td></td><td><a href="de-full-node-a-validator-node.md">de-full-node-a-validator-node.md</a></td></tr><tr><td><h3>Atestaciones y Consenso</h3></td><td></td><td></td><td><a href="atestaciones-y-consenso.md">atestaciones-y-consenso.md</a></td></tr></tbody></table>
+<table data-view="cards">
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th data-hidden data-card-target data-type="content-ref"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><h3>Instalación y Sincronización</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="instalacion-y-sincronizacion.md">instalacion-y-sincronizacion.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>Componentes de Hardware</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="componentes-de-hardware.md">componentes-de-hardware.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>Nodos: Archivo, Full y Light</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="nodos-archivo-full-y-light.md">nodos-archivo-full-y-light.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>Clientes: Opciones y Funcionalidades</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="clientes-opciones-y-funcionalidades.md">clientes-opciones-y-funcionalidades.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>De Full Node a Validator Node</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="de-full-node-a-validator-node.md">de-full-node-a-validator-node.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>Atestaciones y Consenso</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="atestaciones-y-consenso.md">atestaciones-y-consenso.md</a></td>
+    </tr>
+    <tr>
+      <td><h3>Gas en Ethereum</h3></td>
+      <td></td>
+      <td></td>
+      <td><a href="gas-en-ethereum.md">gas-en-ethereum.md</a></td>
+    </tr>
+  </tbody>
+</table>
