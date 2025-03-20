@@ -4,15 +4,11 @@ icon: network-wired
 
 # BitVM
 
-{% hint style="info" %}
-Los títulos que comienzan con 🎡 no son esenciales para entender BitVM y pueden omitirse sin afectar la estructura técnica del artículo.
-{% endhint %}
-
-## 🎡Introducción
+## Introducción
 
 Para entender qué novedades aporta BitVM al ecosistema es interesante recapitular qué es Bitcoin hoy en día y cómo ha llegado hasta aquí.
 
-#### 🎡Bitcoin el producto
+### Bitcoin el producto
 
 Bitcoin surgió como una red de "[cash](https://bitcoin.org/bitcoin.pdf)", pero desde el principio ha habido intentos de ir más allá.
 
@@ -42,7 +38,7 @@ Con Ethereum se logró implementar un lenguaje de programación de propósito ge
 
 El siguiente hito en la eficiencia son los rollups, donde se logró que cientos de versiones de "clones de Ethereum" funcionen sobre el verdadero Ethereum. Con el mismo capital y la misma seguridad criptoeconómica, se pueden asegurar muchas otras versiones de Ethereum, representando un **gran avance en la eficiencia del capital.**
 
-#### 🎡Bitcoin y la política
+#### Bitcoin y la política
 
 Hoy en día, sabemos que el cómputo en Bitcoin está muy limitado. Esto se debe a dos razones principales: el espacio disponible en los bloques y la ausencia de un lenguaje Turing-completo (_**Bitcoin Script**_ no permite bucles ni funciones recursivas).
 
@@ -158,7 +154,7 @@ Ahora, en caso de disputa, lo que se ejecutaría _on-chain_ serían únicamente 
 
 Rápidamente encontraron formas de mejorar esta solución, y actualmente Robin Linus y su equipo están trabajando en BitVM2.
 
-#### [BitVM2 - BitVM - Bridge](https://bitvm.org/bitvm\_bridge.pdf):
+#### [BitVM2 - BitVM - Bridge](https://bitvm.org/bitvm_bridge.pdf):
 
 Para introducir esta tecnología, es interesante señalar que refutar un cálculo es mucho más fácil que ejecutar todo el cálculo. Esto es fácil de ver en ejemplos simples. Por ejemplo, si tienes dos números pares y los multiplicas, y das como resultado un número impar, cualquiera puede estar inmediatamente seguro de que el resultado es incorrecto, porque cuando multiplicas dos números pares, el resultado también debe ser un número par. Solo necesitas observar el bit más pequeño para refutar esa afirmación.
 
