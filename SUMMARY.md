@@ -40,6 +40,7 @@
   - [Funcionamiento y Perspectivas a Futuro](guias/fuel/funcionamiento-y-perspectivas-a-futuro.md)
   - [Mainnet Node](guias/fuel/mainnet-node.md)
 - [Ether.fi](guias/ether.fi.md)
+- [Gensyn AI](guias/gensyn.md)
 - [Otros Nodos](guias/otros-nodos.md)
 
 ## Workshops y Clases
