@@ -5,20 +5,6 @@ description: >-
 icon: hexagon
 cover: ../../.gitbook/assets/1500x500-3.jpeg
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Arbitrum Orbit

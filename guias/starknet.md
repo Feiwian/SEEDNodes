@@ -18,7 +18,7 @@ Vamos a instalar el subsistema de Windows para Linux, donde utilizaremos Linux U
 
 * Abrimos “Windows PowerShell o CMD”, vamos a buscarlo en la barra de búsqueda de Windows, y luego seleccionamos “Ejecutar como administrador”
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 * En el símbolo del sistema, escribís: wsl –install y esperas a que se complete el proceso.&#x20;
   * _Nota: Para que WSL se active tenés que reiniciar tu computadora._
@@ -27,13 +27,13 @@ Vamos a instalar el subsistema de Windows para Linux, donde utilizaremos Linux U
 
 Abrís la aplicación de la tienda de Microsoft y buscas Ubuntu. La instalás, y una vez instalada inicias la aplicación directamente desde la tienda o buscas Ubuntu en la barra de búsqueda de Windows.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Paso 3 - Configuración Ubuntu
 
 Ahora a configurar Ubuntu, solo esperas unos momentos que termine la configuración inicial y luego de abrir la app creas un nombre de usuario y una contraseña.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Paso 4 - Instalando actualizaciones
 
@@ -61,7 +61,7 @@ python3 –V
 
 Y te va a aparecer en la terminal la versión.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. Para administrar los paquetes de software para Python tenemos que instalar pip (es una herramienta que instalará y administrará los paquetes de programación que necesitamos usar más adelante):
 

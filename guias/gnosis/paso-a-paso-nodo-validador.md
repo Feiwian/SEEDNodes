@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # Paso a Paso - Nodo Validador
 
 {% embed url="https://mirror.xyz/seedlatam.eth/M-s9q4jJbq12n5JPwT2qdlqjbf9BzLOsVtFQdfhd-bM" %}

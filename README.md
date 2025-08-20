@@ -2,20 +2,6 @@
 icon: hand-wave
 cover: .gitbook/assets/Portada TW club-1 (1).png
 coverY: 0
-layout:
-  cover:
-    visible: true
-    size: full
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Bienvenido al Club de Nodos!
@@ -31,7 +17,7 @@ Tanto si sos un experto como si estás comenzando, nuestro objetivo es asegurarn
 {% hint style="success" %}
 Tienes alguna **consulta/problema**? Viste un **error** en la documentación? Algo **desactualizado**? Solo quieres **charlar** con otros operadores de nodos?\
 \
-Nuestro grupo de telegram [**Club de Nodos**](https://t.me/SEED\_Nodes) es el lugar! Te esperamos.
+Nuestro grupo de telegram [**Club de Nodos**](https://t.me/SEED_Nodes) es el lugar! Te esperamos.
 {% endhint %}
 
 ### Accesos Rápidos

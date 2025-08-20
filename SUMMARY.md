@@ -36,6 +36,7 @@
 * [Unichain](guias/unichain.md)
 * [Aztec](guias/aztec/README.md)
   * [¿Qué es Aztec y como interactuar con su sandbox?](guias/aztec/que-es-aztec-y-como-interactuar-con-su-sandbox.md)
+  * [Corre tu nodo en Aztec! - Testnet](guias/aztec/corre-tu-nodo-en-aztec-testnet.md)
 * [Optimism](guias/optimism.md)
 * [Fuel](guias/fuel/README.md)
   * [Funcionamiento y Perspectivas a Futuro](guias/fuel/funcionamiento-y-perspectivas-a-futuro.md)
