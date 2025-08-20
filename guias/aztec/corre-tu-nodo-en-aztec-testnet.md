@@ -1,7 +1,5 @@
 # Corre tu nodo en Aztec! - Testnet
 
-***
-
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ***
@@ -154,8 +152,6 @@ Para corroborar los validadores en producción:
 {% endhint %}
 
 #### Eso ha sido todo!&#x20;
-
-***
 
 {% hint style="success" %}
 Tienes alguna **consulta/problema**? Viste un **error** en la documentación? Algo **desactualizado**? Solo quieres **charlar** con otros operadores de nodos?\
